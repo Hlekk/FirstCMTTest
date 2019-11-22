@@ -1,2 +1,4 @@
 
 .idea/workspace.xml
+src/test/java/ru/cmtscience/Helpers/BotHelper/accounts.config
+target/*

@@ -3,11 +3,19 @@ package ru.cmtscience;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.testng.FileAssert;
 import org.testng.annotations.*;
+import ru.cmtscience.Helpers.BotHelper.Bot;
+import ru.cmtscience.Helpers.BotHelper.BotManager;
 import ru.cmtscience.Pages.*;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -55,7 +63,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeName(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ChangeName("1");
         informationAccountPage.SuccessAlert();
         String accountName = informationAccountPage.NameInput().getAttribute("value");
@@ -69,7 +77,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changePatronymic(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ChangePatronymic("1234");
         informationAccountPage.SuccessAlert();
         String patronymic = informationAccountPage.PatronymicInput().getAttribute("value");
@@ -85,7 +93,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeLastName(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ChangeLastName("1");
         informationAccountPage.SuccessAlert();
         String lastName = informationAccountPage.LastNameInput().getAttribute("value");
@@ -98,7 +106,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeNumber(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ChangeNumber("1111111111");
         informationAccountPage.SuccessAlert();
         String number = informationAccountPage.NumberInput().getAttribute("value");
@@ -114,7 +122,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeMail(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ChangeMail("qw@mail.ru");
         informationAccountPage.SuccessAlert();
         String mail = informationAccountPage.EmailInput().getAttribute("value");
@@ -128,7 +136,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void addProductToFavorite(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         Set<Cookie> allcookies = driver.manage().getCookies();
         System.out.println(allcookies);
         informationAccountPage.CatalogButton().click();
@@ -152,7 +160,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void addArticleToFavorite(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.ArticlesButton().click();
         articlesPage.ArticlePicture().click();
         articlePage.AddToFavoritArticle().click();
@@ -172,7 +180,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void addVideoToFavorite(){
-        loginWindowPage.Login();
+        loginWindowPage.Login(bot);
         informationAccountPage.VideosButton().click();
         videosPage.VideoPicture().click();
         videoPage.AddToFavoriteVideo().click();
@@ -187,10 +195,6 @@ public class PositiveTests extends BaseTest {
         assertEquals(videoName, favoriteVideoName);
         favoritePage.favoriteVideoName().click();
         videoPage.AddToFavoriteVideo().click();
-
-
-
-
     }
 
 

@@ -3,6 +3,7 @@ package ru.cmtscience.Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import ru.cmtscience.Helpers.BotHelper.Bot;
 
 public class LoginWindowPage extends HeaderAndFooterFragment {
     public LoginWindowPage (WebDriver driver) {super(driver);}
@@ -20,11 +21,11 @@ public class LoginWindowPage extends HeaderAndFooterFragment {
 
     // Повторяющиеся методы
 
-    public void Login() {
+    public void Login(Bot bot) {
         driver.get("https://cmtscience.ru//");
         LoginHeaderButton().click();
-        EmailInput().sendKeys("hlekkamaya@yandex.ru");
-        PasswordInput().sendKeys("DotaTest11");
+        EmailInput().sendKeys(bot.getEmail());
+        PasswordInput().sendKeys(bot.getPassword());
         LoginToAccountButton().click();
         sleep(1);
 

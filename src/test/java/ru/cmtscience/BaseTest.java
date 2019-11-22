@@ -6,6 +6,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import ru.cmtscience.Helpers.BotHelper.Bot;
+import ru.cmtscience.Helpers.BotHelper.BotManager;
 import ru.cmtscience.Pages.*;
 
 public class BaseTest {
@@ -20,11 +22,16 @@ public class BaseTest {
     public FavoritePage favoritePage;
     public VideosPage videosPage;
     public VideoPage videoPage;
+    public Bot bot;
+    public BotManager botManager;
 
     @BeforeTest
     public void start(){
         driver = new ChromeDriver();
         driver.manage().window().setSize(new Dimension(1280,900));
+        botManager = new BotManager();
+        bot = botManager.getBot("baseBot");
+
         informationAccountPage = new InformationAccountPage(driver);
         loginWindowPage = new LoginWindowPage(driver);
         headerAndFooterFragment = new HeaderAndFooterFragment(driver);
