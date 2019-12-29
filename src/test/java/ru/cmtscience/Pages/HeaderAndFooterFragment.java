@@ -28,6 +28,19 @@ public class HeaderAndFooterFragment extends Page {
 
     public WebElement BasketButton() {return cssFindElement(".hr-basket");}
 
+    public WebElement FavoriteLink() {return cssFindElement(".hd-menu a[href=\"https://cmtscience.ru/cabinet/favorites\"]");}
+
+    public WebElement InfoLink() {return cssFindElement(".hd-menu a[href=\"https://cmtscience.ru/cabinet/info\"]");}
+
+    public WebElement OrdersLink() {return cssFindElement(".hd-menu a[href=\"https://cmtscience.ru/cabinet/orders\"]");}
+
+    public WebElement ChangePasswordLink() {return cssFindElement(".hd-menu a[href=\"https://cmtscience.ru/cabinet/settings\"]");}
+
+    public WebElement LogoutLink() {return cssFindElement(".hd-menu a[href=\"https://cmtscience.ru/logout\"]");}
+
+
+
+
 
 
     // Локаторы Footer

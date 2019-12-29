@@ -3,6 +3,8 @@ package ru.cmtscience.Pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import static java.lang.Thread.sleep;
+
 public class InformationAccountPage extends HeaderAndFooterFragment {
     public InformationAccountPage (WebDriver driver) {
         super(driver);

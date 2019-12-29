@@ -29,7 +29,7 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void loginTest(){
-        driver.get("https://cmtscience.ru//");
+        driver.get("https://cmtscience.ru");
         headerAndFooterFragment.LoginHeaderButton().click();
         loginWindowPage.EmailInput().sendKeys("hlekkamaya@yandex.ru");
         loginWindowPage.PasswordInput().sendKeys("DotaTest11");
@@ -37,8 +37,7 @@ public class PositiveTests extends BaseTest {
         sleep(1);
         String accountName = driver.findElements(By.cssSelector("div.hr-info.hr-info--no-login span")).get(0).getText().trim();
         assertEquals("Hlekk", accountName);
-        //driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-       // loginWindowPage.LogoutButton().click();
+
     }
 
     @Test
@@ -63,58 +62,51 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeName(){
-        loginWindowPage.Login(bot);
+        action.LoginAndOpenInfoPage(bot);
         informationAccountPage.ChangeName("1");
         informationAccountPage.SuccessAlert();
         String accountName = informationAccountPage.NameInput().getAttribute("value");
         assertEquals("1",accountName);
         informationAccountPage.ChangeName("Hlekk");
         sleep(1);
-       // driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-       // loginWindowPage.LogoutButton().click();
 
     }
 
     @Test
     public void changePatronymic(){
-        loginWindowPage.Login(bot);
+        action.LoginAndOpenInfoPage(bot);
         informationAccountPage.ChangePatronymic("1234");
         informationAccountPage.SuccessAlert();
         String patronymic = informationAccountPage.PatronymicInput().getAttribute("value");
         assertEquals("1234", patronymic);
         informationAccountPage.ChangePatronymic("123");
         sleep(1);
-       // driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-        // loginWindowPage.LogoutButton().click();
-
-
-
     }
 
     @Test
     public void changeLastName(){
-        loginWindowPage.Login(bot);
-        informationAccountPage.ChangeLastName("1");
+        action.LoginAndOpenInfoPage(bot);
+        informationAccountPage.ChangeLastName("123");
+        sleep(2);
         informationAccountPage.SuccessAlert();
         String lastName = informationAccountPage.LastNameInput().getAttribute("value");
-        assertEquals("1", lastName);
+        assertEquals("123", lastName);
+        sleep(2);
         informationAccountPage.ChangeLastName("Amaya");
         sleep(1);
-        //driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-        //loginWindowPage.LogoutButton().click();
     }
 
     @Test
     public void changeNumber(){
-        loginWindowPage.Login(bot);
+        action.LoginAndOpenInfoPage(bot);
         informationAccountPage.ChangeNumber("1111111111");
+        sleep ( 1);
         informationAccountPage.SuccessAlert();
         String number = informationAccountPage.NumberInput().getAttribute("value");
         assertEquals("+7 (111) 111-11-11", number);
+        sleep(1);
         informationAccountPage.ChangeNumber("8374345345");
         sleep(1);
-        //driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-        //loginWindowPage.LogoutButton().click();
 
     }
 
@@ -122,15 +114,14 @@ public class PositiveTests extends BaseTest {
 
     @Test
     public void changeMail(){
-        loginWindowPage.Login(bot);
+        action.LoginAndOpenInfoPage(bot);
         informationAccountPage.ChangeMail("qw@mail.ru");
         informationAccountPage.SuccessAlert();
         String mail = informationAccountPage.EmailInput().getAttribute("value");
         assertEquals("qw@mail.ru", mail);
         informationAccountPage.ChangeMail("hlekkamaya@yandex.ru");
         sleep(1);
-        //driver.get("a[href=\"https://cmtscience.ru/cabinet/info\"]");
-        //loginWindowPage.LogoutButton().click();
+
     }
 
 

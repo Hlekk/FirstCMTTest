@@ -22,7 +22,7 @@ public class LoginWindowPage extends HeaderAndFooterFragment {
     // Повторяющиеся методы
 
     public void Login(Bot bot) {
-        driver.get("https://cmtscience.ru//");
+        driver.get("https://cmtscience.ru/?pp=disable");
         LoginHeaderButton().click();
         EmailInput().sendKeys(bot.getEmail());
         PasswordInput().sendKeys(bot.getPassword());

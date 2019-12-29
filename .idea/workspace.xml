@@ -1,121 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/FavoritePage.java" line="10" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="984f6730-8167-43a5-a45b-17d836c7b2ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/BotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/accounts.config.sample" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="60185403-e0fe-4673-ba2a-78ced33c47c6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="73" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/VideosPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlesPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ProductPage.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="6" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderAndFooterFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="30" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/Page.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/accounts.config">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/Bot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/BotManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -123,8 +60,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InformationAccountPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state relative-caret-position="476">
+              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+              <folding>
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/CatalogPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,237 +91,113 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>informationAccountPage.</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/Page.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderFragment.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InformationAccountPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/CatalogPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlePage.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderAndFooterFragment.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InfoAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InformationAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/Action.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ProductPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/VideosPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/VideoPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/FavoritePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/BotManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="295" />
-    <option name="y" value="217" />
+    <option name="x" value="434" />
+    <option name="y" value="16" />
     <option name="width" value="1416" />
-    <option name="height" value="684" />
+    <option name="height" value="981" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cmtscience" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cmtscience" type="462c0819:PsiDirectoryNode" />
               <item name="Helpers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
+              <item name="gradleCMT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradleCMT" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cmtscience" type="462c0819:PsiDirectoryNode" />
-              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
-              <item name="BotHelper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstCMTTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cmtscience" type="462c0819:PsiDirectoryNode" />
               <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstCMTTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.testng:testng:6.14.3" type="70bed36:NamedLibraryElementNode" />
-              <item name="testng-6.14.3.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ashot-screenshot-autotests" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Amaya\IdeaProjects\FirstCMTTest\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Github\gradleCMT\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -379,33 +214,9 @@
   </component>
   <component name="RunManager" selected="TestNG.PositiveTests.changeName">
     <configuration name="PositiveTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FirstCMTTest" />
+      <module name="gradleCMT.gradleCMT.test" />
       <option name="PACKAGE_NAME" value="ru.cmtscience" />
       <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositiveTests.addProductToFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FirstCMTTest" />
-      <option name="PACKAGE_NAME" value="ru.cmtscience" />
-      <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
-      <option name="METHOD_NAME" value="addProductToFavorite" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositiveTests.addVideoToFavorite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FirstCMTTest" />
-      <option name="PACKAGE_NAME" value="ru.cmtscience" />
-      <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
-      <option name="METHOD_NAME" value="addVideoToFavorite" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -413,7 +224,7 @@
       </method>
     </configuration>
     <configuration name="PositiveTests.changeName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FirstCMTTest" />
+      <module name="gradleCMT.gradleCMT.test" />
       <option name="PACKAGE_NAME" value="ru.cmtscience" />
       <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
       <option name="METHOD_NAME" value="changeName" />
@@ -425,7 +236,7 @@
       </method>
     </configuration>
     <configuration name="PositiveTests.changeNumber" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FirstCMTTest" />
+      <module name="gradleCMT.gradleCMT.test" />
       <option name="PACKAGE_NAME" value="ru.cmtscience" />
       <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
       <option name="METHOD_NAME" value="changeNumber" />
@@ -436,274 +247,211 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PositiveTests.changePatronymic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gradleCMT.gradleCMT.test" />
+      <option name="PACKAGE_NAME" value="ru.cmtscience" />
+      <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
+      <option name="METHOD_NAME" value="changePatronymic" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTests.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gradleCMT.gradleCMT.test" />
+      <option name="PACKAGE_NAME" value="ru.cmtscience" />
+      <option name="MAIN_CLASS_NAME" value="ru.cmtscience.PositiveTests" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.PositiveTests.changeName" />
-        <item itemvalue="TestNG.PositiveTests.changeNumber" />
         <item itemvalue="TestNG.PositiveTests" />
-        <item itemvalue="TestNG.PositiveTests.addProductToFavorite" />
-        <item itemvalue="TestNG.PositiveTests.addVideoToFavorite" />
+        <item itemvalue="TestNG.PositiveTests.changePatronymic" />
+        <item itemvalue="TestNG.PositiveTests.changeNumber" />
+        <item itemvalue="TestNG.PositiveTests.loginTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="PositiveTests_addVideoToFavorite - 2019.10.14 at 11h 45m 33s.xml">
-      <configuration name="PositiveTests.addVideoToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 36m 35s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests_addVideoToFavorite - 2019.10.14 at 11h 46m 22s.xml">
-      <configuration name="PositiveTests.addVideoToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 36m 49s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests_addVideoToFavorite - 2019.10.14 at 11h 47m 35s.xml">
-      <configuration name="PositiveTests.addVideoToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 37m 04s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests_addProductToFavorite - 2019.10.14 at 17h 52m 51s.xml">
-      <configuration name="PositiveTests.addProductToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 37m 25s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests_addProductToFavorite - 2019.10.20 at 16h 51m 49s.xml">
-      <configuration name="PositiveTests.addProductToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 39m 33s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests_addProductToFavorite - 2019.10.20 at 17h 11m 49s.xml">
-      <configuration name="PositiveTests.addProductToFavorite" configurationId="TestNG" />
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 40m 27s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PositiveTests - 2019.10.20 at 17h 15m 57s.xml">
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 15h 46m 11s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 19h 45m 02s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PositiveTests_changePatronymic - 2019.12.29 at 19h 49m 07s.xml">
+      <configuration name="PositiveTests.changePatronymic" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PositiveTests - 2019.12.29 at 19h 53m 05s.xml">
       <configuration name="PositiveTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveTests - 2019.10.23 at 14h 20m 25s.xml">
-      <configuration name="PositiveTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveTests_changeName - 2019.11.17 at 20h 17m 35s.xml">
-      <configuration name="PositiveTests.changeName" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveTests_changeName - 2019.11.17 at 20h 19m 51s.xml">
-      <configuration name="PositiveTests.changeName" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20208333" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.3296146" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38900414" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32987553" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" visible="true" weight="0.3296146" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49947917" weight="0.3296146" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.26119402" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="2" weight="0.21805274" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33713692" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39937758" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#2120#2121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InfoAccountPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-          <folding>
-            <element signature="e#0#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/FavoritePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="95" selection-start-line="16" selection-start-column="95" selection-end-line="16" selection-end-column="95" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlePage.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/CatalogPage.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderAndFooterFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/VideoPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/VideosPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="111" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/InformationAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state relative-caret-position="476">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/LoginWindowPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="442">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ArticlesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/Bot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/ProductPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/BotManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Pages/HeaderAndFooterFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/Helpers/BotHelper/accounts.config">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="30" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/cmtscience/PositiveTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="73" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -759,7 +507,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FirstCMTTest</last-edited>
+          <last-edited>test|gradleCMT.gradleCMT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -772,6 +520,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
